@@ -1,6 +1,6 @@
 package com.lidaming.design04.builder;
 
-public class LongYellowMan implements IBody {
+public class YellowHeightMan implements IBody {
 
 	public String color() {
 

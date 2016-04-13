@@ -14,7 +14,7 @@ public class AsiaBuilder implements IBuilder {
 	}
 
 	public void buildBody() {
-		human.setBody(new LongYellowMan());
+		human.setBody(new YellowHeightMan());
 
 	}
 
